@@ -4,5 +4,6 @@
   "Valueban": true,
   "banallnotWhitelist": false,
   "userprotectedower": ["Jaxnaxeex"],
-  "idsprotected": [6025831916]
+  "idsprotected": [6025831916],
+  "whitelistban": ["user"]
 }
