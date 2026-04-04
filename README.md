@@ -1,0 +1,2 @@
+# idkloll
+list ban idk
