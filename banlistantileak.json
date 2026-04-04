@@ -1,7 +1,8 @@
 {
   "bannedUsers": ["Idkuserrloldldl"],
-  "bannedIds": [12345678],
-  "Valueban": false,
-  "banallnotWhitelist": true,
-  "userprotectedower": ["Jaxnaxeex"]
+  "bannedIds": [10762154794],
+  "Valueban": true,
+  "banallnotWhitelist": false,
+  "userprotectedower": ["Jaxnaxeex"],
+  "idsprotected": [6025831916]
 }
