@@ -1,2 +1,0 @@
-# idkloll
-list ban idk
